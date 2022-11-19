@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main() 
 {
     char name[5] = {'A', 'L', 'A', 'D', 'L'};
     char user[5];
