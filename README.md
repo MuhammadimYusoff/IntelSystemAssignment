@@ -2,13 +2,17 @@
 This repo created for Intelligence System Assignment for State Space Search
 
 - [IntelSystemAssignment](#intelsystemassignment)
-- [Team Members](#team-members)
+- [Lecturer and Team Members](#lecturer-and-team-members)
 - [Game Flow](#game-flow)
 - [Flowchart logic from the code](#flowchart-logic-from-the-code)
 - [Short explanation](#short-explanation)
 
 
-# Team Members
+# Lecturer and Team Members
+
+LECTURER: Assoc. Prof. Ts. Dr. Amelia Ritahani binti Ismail
+
+
 |                NAME				  |   MATRIC NUMBER    |
 |                ---				  |  	  ---		   |
 |   MUHAMMAD YUSOFF BIN JAMALUDDIN    |     2016799    	   |
