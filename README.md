@@ -1,6 +1,21 @@
 # IntelSystemAssignment
 This repo created for Intelligence System Assignment for State Space Search
 
+- [IntelSystemAssignment](#intelsystemassignment)
+- [Team Members](#team-members)
+- [Game Flow](#game-flow)
+- [Flowchart logic from the code](#flowchart-logic-from-the-code)
+- [Short explanation](#short-explanation)
+
+
+# Team Members
+|                NAME				  |   MATRIC NUMBER    |
+|                ---				  |  	  ---		   |
+|   MUHAMMAD YUSOFF BIN JAMALUDDIN    |     2016799    	   |
+|   FADWA RAMADAN ALI HASSAN    	  |     2024334    	   |
+|   LAZEENA TARNIM RANAK    		  |     2027718    	   |
+
+
 # Game Flow
 Arrange the letters to Allah's Almighty Name
 	⁃	The user will be given a clue about Allah’s name
